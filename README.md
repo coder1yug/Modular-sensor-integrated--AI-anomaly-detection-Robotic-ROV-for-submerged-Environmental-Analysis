@@ -10,4 +10,5 @@ Comparative analysis against advanced U.S. ROV systems shows performance gaps in
 <img width="1327" height="1202" alt="Screenshot 2025-12-23 161054" src="https://github.com/user-attachments/assets/8bc9254c-1568-43f6-aab8-e153be110991" />
  This rov is equipped with specalized electronics for proper power flow in high depth marine regions
 # ROV ON BOARD ELECTRONICS
-[Schematic_wiring-guide-rov_2026-01-05.pdf](https://github.com/user-attachments/files/24483886/Schematic_wiring-guide-rov_2026-01-05.pdf)
+[Schematic_wiring-guide-rov_2026-01-05.pdf](https://github.com/user-attachments/files/24483892/Schematic_wiring-guide-rov_2026-01-05.pdf)
+
