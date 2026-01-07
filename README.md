@@ -7,7 +7,8 @@ Comparative analysis against advanced U.S. ROV systems shows performance gaps in
 
 <img width="1188" height="1023" alt="Screenshot 2025-12-23 155807" src="https://github.com/user-attachments/assets/189cf8d9-52d4-46d2-8a5d-744105b861f4" />
 <img width="1225" height="1165" alt="Screenshot 2025-12-24 111747" src="https://github.com/user-attachments/assets/12971b0e-d562-47e6-8e75-2046b995e37c" />
-<img width="1327" height="1202" alt=<img width="2436" height="1725" alt="Schematic_wiring-guide-rov_2026-01-05 (1)_page-0001" src="https://github.com/user-attachments/assets/811857b0-2a45-4537-bdfa-fd92a6b0204e" />
+<img width="1772" height="1182" alt="Screenshot 2025-12-24 111559" src="https://github.com/user-attachments/assets/694830c6-13b6-451c-a452-957140b694ab" />
+4e" />
 
 # ROV ON BOARD ELECTRONICS
 
